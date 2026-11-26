@@ -1,6 +1,6 @@
 {
-  "version_code": 23,
-  "version_name": "0.2.12",
-  "apk_url": "https://raw.githubusercontent.com/anransu983-sketch/ranjian-ime/main/releases/ranjian-ime-0.2.12.apk",
-  "notes": "背景视频声音可开关，默认静音。"
+  "version_code": 24,
+  "version_name": "0.2.13",
+  "apk_url": "https://raw.githubusercontent.com/anransu983-sketch/ranjian-ime/main/releases/ranjian-ime-0.2.13.apk",
+  "notes": "接入笔画输入，功能里加单手模式切换。"
 }
