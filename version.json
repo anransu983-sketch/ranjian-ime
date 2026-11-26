@@ -1,6 +1,6 @@
 {
-  "version_code": 47,
-  "version_name": "0.2.36",
-  "apk_url": "https://raw.githubusercontent.com/anransu983-sketch/ranjian-ime/main/releases/ranjian-ime-0.2.36.apk",
-  "notes": "核心输入：模糊拼音（zh/z、en/eng不分）+中英混输，中文模式可直接打vps/emby等英文词。"
+  "version_code": 48,
+  "version_name": "0.2.37",
+  "apk_url": "https://raw.githubusercontent.com/anransu983-sketch/ranjian-ime/main/releases/ranjian-ime-0.2.37.apk",
+  "notes": "个人语言模型：整句解码用你的常用搭配排序；拼音纠错；打时间/日期/星期出当前值。"
 }
