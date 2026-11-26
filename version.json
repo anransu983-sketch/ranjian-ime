@@ -1,6 +1,6 @@
 {
-  "version_code": 44,
-  "version_name": "0.2.33",
-  "apk_url": "https://raw.githubusercontent.com/anransu983-sketch/ranjian-ime/main/releases/ranjian-ime-0.2.33.apk",
-  "notes": "补乌克兰等常用地名，wukelan首选乌克兰。"
+  "version_code": 45,
+  "version_name": "0.2.34",
+  "apk_url": "https://raw.githubusercontent.com/anransu983-sketch/ranjian-ime/main/releases/ranjian-ime-0.2.34.apk",
+  "notes": "词库重做：简体词组十万条按词频排序，常用词审计102个全过，乌克兰/默认首选。"
 }
