@@ -1,6 +1,6 @@
 {
-  "version_code": 50,
-  "version_name": "0.2.39",
-  "apk_url": "https://raw.githubusercontent.com/anransu983-sketch/ranjian-ime/main/releases/ranjian-ime-0.2.39.apk",
-  "notes": "符号弹窗选完即消失，点别处也关，不再挂在上面。"
+  "version_code": 51,
+  "version_name": "0.2.40",
+  "apk_url": "https://raw.githubusercontent.com/anransu983-sketch/ranjian-ime/main/releases/ranjian-ime-0.2.40.apk",
+  "notes": "检查更新绕过缓存不再误报最新；设置预览跟新布局。"
 }
