@@ -1,6 +1,6 @@
 {
-  "version_code": 20,
-  "version_name": "0.2.9",
-  "apk_url": "https://raw.githubusercontent.com/anransu983-sketch/ranjian-ime/main/releases/ranjian-ime-0.2.9.apk",
-  "notes": "装饰：自定义颜色、按键效果、背景图片/视频。"
+  "version_code": 21,
+  "version_name": "0.2.10",
+  "apk_url": "https://raw.githubusercontent.com/anransu983-sketch/ranjian-ime/main/releases/ranjian-ime-0.2.10.apk",
+  "notes": "修复背景铺满全屏，背景只跟键盘高度。"
 }
