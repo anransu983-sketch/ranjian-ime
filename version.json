@@ -1,6 +1,6 @@
 {
-  "version_code": 42,
-  "version_name": "0.2.31",
-  "apk_url": "https://raw.githubusercontent.com/anransu983-sketch/ranjian-ime/main/releases/ranjian-ime-0.2.31.apk",
-  "notes": "补默认一词，moren首选默认。"
+  "version_code": 43,
+  "version_name": "0.2.32",
+  "apk_url": "https://raw.githubusercontent.com/anransu983-sketch/ranjian-ime/main/releases/ranjian-ime-0.2.32.apk",
+  "notes": "加联网词库：自动下载新词热词合并进候选，只下载不发送输入内容。"
 }
