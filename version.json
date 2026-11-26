@@ -1,6 +1,6 @@
 {
-  "version_code": 29,
-  "version_name": "0.2.18",
-  "apk_url": "https://raw.githubusercontent.com/anransu983-sketch/ranjian-ime/main/releases/ranjian-ime-0.2.18.apk",
-  "notes": "震动反馈加轴体风格：青轴、茶轴、红轴、黑轴可选。"
+  "version_code": 30,
+  "version_name": "0.2.19",
+  "apk_url": "https://raw.githubusercontent.com/anransu983-sketch/ranjian-ime/main/releases/ranjian-ime-0.2.19.apk",
+  "notes": "震动风格补全常见轴体：青、白、茶、紫、红、银、黑、奶黄、静音红、静音黑、Box白。"
 }
