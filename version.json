@@ -1,6 +1,6 @@
 {
-  "version_code": 26,
-  "version_name": "0.2.15",
-  "apk_url": "https://raw.githubusercontent.com/anransu983-sketch/ranjian-ime/main/releases/ranjian-ime-0.2.15.apk",
-  "notes": "词库扩充到两万多词，常用词组候选大幅增加。"
+  "version_code": 27,
+  "version_name": "0.2.16",
+  "apk_url": "https://raw.githubusercontent.com/anransu983-sketch/ranjian-ime/main/releases/ranjian-ime-0.2.16.apk",
+  "notes": "单字字库扩充，每个拼音的单字候选大幅增加。"
 }
