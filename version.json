@@ -1,6 +1,6 @@
 {
-  "version_code": 41,
-  "version_name": "0.2.30",
-  "apk_url": "https://raw.githubusercontent.com/anransu983-sketch/ranjian-ime/main/releases/ranjian-ime-0.2.30.apk",
-  "notes": "键盘布局按三星图一微调；面板切换不再改默认布局，moren出默认。"
+  "version_code": 42,
+  "version_name": "0.2.31",
+  "apk_url": "https://raw.githubusercontent.com/anransu983-sketch/ranjian-ime/main/releases/ranjian-ime-0.2.31.apk",
+  "notes": "补默认一词，moren首选默认。"
 }
