@@ -1,6 +1,6 @@
 {
-  "version_code": 32,
-  "version_name": "0.2.21",
-  "apk_url": "https://raw.githubusercontent.com/anransu983-sketch/ranjian-ime/main/releases/ranjian-ime-0.2.21.apk",
-  "notes": "底栏符号入口改名为「符号」，一眼能找到。"
+  "version_code": 34,
+  "version_name": "0.2.23",
+  "apk_url": "https://raw.githubusercontent.com/anransu983-sketch/ranjian-ime/main/releases/ranjian-ime-0.2.23.apk",
+  "notes": "加手写输入，语音失败改走系统语音界面，前后文排序修正，手势不再误触长按。"
 }
