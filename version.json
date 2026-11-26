@@ -1,6 +1,6 @@
 {
-  "version_code": 46,
-  "version_name": "0.2.35",
-  "apk_url": "https://raw.githubusercontent.com/anransu983-sketch/ranjian-ime/main/releases/ranjian-ime-0.2.35.apk",
-  "notes": "候选长按置顶/屏蔽，越用越懂你；联网词库加服务器领域词。"
+  "version_code": 47,
+  "version_name": "0.2.36",
+  "apk_url": "https://raw.githubusercontent.com/anransu983-sketch/ranjian-ime/main/releases/ranjian-ime-0.2.36.apk",
+  "notes": "核心输入：模糊拼音（zh/z、en/eng不分）+中英混输，中文模式可直接打vps/emby等英文词。"
 }
