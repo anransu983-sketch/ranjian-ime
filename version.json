@@ -1,6 +1,6 @@
 {
-  "version_code": 24,
-  "version_name": "0.2.13",
-  "apk_url": "https://raw.githubusercontent.com/anransu983-sketch/ranjian-ime/main/releases/ranjian-ime-0.2.13.apk",
-  "notes": "接入笔画输入，功能里加单手模式切换。"
+  "version_code": 25,
+  "version_name": "0.2.14",
+  "apk_url": "https://raw.githubusercontent.com/anransu983-sketch/ranjian-ime/main/releases/ranjian-ime-0.2.14.apk",
+  "notes": "接入笔画输入与单手切换，候选栏固定高度不再跳位。"
 }
