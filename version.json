@@ -1,6 +1,6 @@
 {
-  "version_code": 37,
-  "version_name": "0.2.26",
-  "apk_url": "https://raw.githubusercontent.com/anransu983-sketch/ranjian-ime/main/releases/ranjian-ime-0.2.26.apk",
-  "notes": "支持整句长拼音输入，长句按词组和单字一起解码。"
+  "version_code": 38,
+  "version_name": "0.2.27",
+  "apk_url": "https://raw.githubusercontent.com/anransu983-sketch/ranjian-ime/main/releases/ranjian-ime-0.2.27.apk",
+  "notes": "手写页加功能和键盘类型入口，返回不再困在手写。"
 }
