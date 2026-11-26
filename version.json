@@ -1,6 +1,6 @@
 {
-  "version_code": 17,
-  "version_name": "0.2.6",
-  "apk_url": "https://raw.githubusercontent.com/anransu983-sketch/ranjian-ime/main/releases/ranjian-ime-0.2.6.apk",
-  "notes": "去掉键盘上方工具栏整排，功能入口收到底栏功能键。"
+  "version_code": 18,
+  "version_name": "0.2.7",
+  "apk_url": "https://raw.githubusercontent.com/anransu983-sketch/ranjian-ime/main/releases/ranjian-ime-0.2.7.apk",
+  "notes": "加大按键字号与键高，减少误触；含去掉工具栏整排。"
 }
